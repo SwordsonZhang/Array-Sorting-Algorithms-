@@ -8,4 +8,4 @@ Some classical sorting algorithms
 # 插入排序算法 Insert Sort Algorithm
 # 希尔排序算法 Shell Sort Algorithm
 # 选择排序算法 Select Sort Algorithm
-# 改进的选择排序算法 
+# 改进的选择排序算法 Modified Select Sort Algorithm
