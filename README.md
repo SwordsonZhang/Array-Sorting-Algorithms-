@@ -1,5 +1,5 @@
 # Array-Sorting-Algorithms
-Some classical sorting algorithms
+Some classical sorting algorithms:
 
 冒泡排序 Bubble Sort Algorithm
 
